@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I am a Self taught Data Scientist.  
+
+Mostly on GitHub for: 
+- 👀 Computer vision
+- 📈 Stock market analysis
+- 💲 Personal finance software
+- 🏠 Home Automation (IoT)
+
+
 <!--
 **LeoSaffron/LeoSaffron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
