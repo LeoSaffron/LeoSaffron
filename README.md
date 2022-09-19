@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Self taught Data Scientist.  
+Data Scientist here.  
 
 Mostly on GitHub for: 
 - 👀 Computer vision
